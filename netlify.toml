@@ -47,11 +47,6 @@
   status = 301
   force = true
 
-# Catch-all 404 redirect
-[[redirects]]
-  from = "/*"
-  to = "/404/index.html"
-  status = 404
 
 # Security headers for all pages
 [[headers]]
