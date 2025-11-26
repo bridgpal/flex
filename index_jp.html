@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="ja" class="no-js">
+  <head>
+    <title>Flexera ドキュメント</title>
+    <meta name="description" content="製品のユーザードキュメントのオンライン ライブラリ Flexera Documentation へようこそ" />
+    <meta charset="utf-8" />
+    <!--meta name="robots" content="noindex, nofollow" /-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Security-Policy" content="frame-ancestors https://*.flexera.com https://*.flexera.de https://*.revenera.com https://*.revenera.de https://ecommerce-flexeracommunity.cs201.force.com https://staging-flexeracommunity.cs203.force.com; default-src * 'unsafe-eval' 'unsafe-inline' data: filesystem: about: blob: ws: wss:; form-action 'self'; script-src * 'unsafe-eval' 'unsafe-inline' https:; style-src * 'self' 'unsafe-inline' https:" />
+    <meta http-equiv="Strict-Transport-Security" content="max-age=31536000; includeSubDomains" />
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <link rel="dns-prefetch" href="https://resources.flexera.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+    <link rel="icon" type="image/x-icon" href="https://docs.flexera.com/favicon.ico" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900" />
+    <link rel="stylesheet" href="https://resources.flexera.com/web/includes/docs/docs-flexera.css?v=1.24" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PDSJXT');</script>
+  </head>
+
+  <body lang="en" class="en" itemscope itemtype="http://schema.org/WebPage">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDSJXT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div class="page-wrap helpnet">
+      <header>
+        <section class="main-nav">
+          <div class="content">
+            <h2 class="logo logo__flexera">
+              <a href="https://www.flexera.com/"> <img src="https://resources.flexera.com/web/images/logo-flexera.svg" alt="Flexera logo" /></a>
+              <span>ドキュメント</span>
+            </h2>
+
+            <div class="menu" aria-haspopup="true">
+              <nav class="primary-nav"></nav>
+              <nav class="secondary-nav">
+                <ul>
+                  <li>
+                    <a target="_blank" href="https://community.flexera.com">Flexera Community &nbsp; <i class="icon-external-link"></i></a>
+                  </li>
+                  <li>
+                    <a target="_blank" href="/eol/">サポート終了情報&nbsp; <i class="icon-external-link"></i></a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </section>
+      </header>
+
+      <main>
+        <section class="helpnet-select-language">
+          <div class="content">
+            <a href="index.html">English</a> <span class="pipe">|</span> 
+            <a href="index_jp.html" class="active">日本語</a> <span class="pipe">|</span> 
+            <a href="index_de.html">Deutsch</a> <span class="pipe">|</span> 
+            <a href="index_es.html">Espa&ntilde;ol</a> <span class="pipe">|</span> 
+            <a href="index_fr.html">Fran&ccedil;ais</a>
+          </div>
+        </section>
+
+        <section class="triad-filtered">
+          <div class="filter-bar" id="helpnet-filter-form">
+            <div class="content">
+              <div class="dropdown-grid">
+                <div class="dropdown">
+                  <label for="product">製品:</label
+                  ><span class="selectlist">
+                    <span id="productMenu"
+                      ><select id="product" disabled>
+                        <option value="">選択してください</option>
+                      </select></span
+                    >
+                    <i class="icon-chevron-down"></i>
+                  </span>
+                </div>
+                <div class="dropdown">
+                  <label for="version">バージョン:</label
+                  ><span class="selectlist">
+                    <span id="versionMenu"
+                      ><select id="version" disabled>
+                        <option value="">バージョンを選択してください</option>
+                      </select></span
+                    >
+                    <i class="icon-chevron-down"></i>
+                  </span>
+                </div>
+              </div>
+              <div style="display: none" id="tempselect"></div>
+            </div>
+          </div>
+          <div id="helpnet-start-message-container" style="display: none">
+            <div class="helpnet-start-message">
+              <h2>ようこそ</h2>
+              <p>Flexera 製品とバージョンを選択してください。<br />下に関連ドキュメントへのリンクが表示されます。</p>
+            </div>
+          </div>
+          <div class="content pb-4">
+            <div id="placeholder-listing-container"></div>
+
+            <div class="helpnet-listing" id="helpnet-listing" style="display: none">
+              <div class="heading">
+                <div class="row">
+                  <div class="cell">ドキュメント</div>
+                  <div class="cell">HTML</div>
+                  <div class="cell">PDF</div>
+                </div>
+              </div>
+              <div class="listing" id="includes-container">
+                <!-- Dynamic content will be loaded here -->
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="quad-fixed-width bordered mt-6">
+          <div class="content">
+            <ul class="news-item-list">
+							<li class="news-item news-item--snow">
+								<div class="news-text">
+									<div class="header">Snow ドキュメント</div>
+									<div class="copy">
+										<p>Snow 製品のドキュメントは <a href="https://docs-snow.flexera.com">docs-snow.flexera.com</a>からご利用いただけます。</p>
+									</div>
+								</div>
+							</li>            
+              <li class="news-item news-item--revenera">
+                <div class="news-text">
+                  <div class="header">Revenera ドキュメント</div>
+                  <div class="copy">
+                    <p>Revenera 製品のドキュメントは <a href="https://docs.revenera.com">docs.revenera.com</a>からご利用いただけます。</p>
+                  </div>
+                </div>
+              </li>
+              <li class="news-item news-item--community">
+                <div class="news-text">
+                  <div class="header">お客様コミュニティ</div>
+                  <div class="copy">
+                    <p>
+                      他のユーザーとの情報交換、または質問に対する回答を検索できるフォーラムへのアクセスは、<a href="https://community.flexera.com" target="_blank">Flexera Community</a>
+                      からご利用いただけます。
+                    </p>
+                  </div>
+                </div>
+              </li>
+              <li class="news-item news-item--eol">
+                <div class="news-text">
+                  <div class="header">サポート終了情報</div>
+                  <div class="copy">
+                    <p>
+                      サポート終了日が過ぎた製品のドキュメントは、HelpNet の一覧には表示されません。詳細については、<a
+                        href="https://resources.flexera.com/web/www/support/lifecycle/index.html"
+                        target="_blank"
+                        >製品のサポート終了情報</a
+                      >を参照してください。
+                    </p>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </section>
+      </main>
+
+      <div class="f1footer catalog-center-width" id="f1footer">
+        <div class="content">
+          <img src="https://resources.flexera.com/web/images/logo/2023/flexera.svg" alt="Flexera Logo" class="f1footer__logo" />
+          <div class="f1footer__body">
+            <div class="f1footer__body__main">
+              <h4 class="f1footer__body__heading">+1.800.374.4353</h4>
+              <ul class="f1footer__buttons">
+                <li><a href="https://www.flexera.com/about-us/contact-us" class="f1footer__button f1footer__button--lightblue">お問い合わせ</a></li>
+                <li><a href="https://community.flexera.com/s/support-hub" class="f1footer__button f1footer__button--lightblue">サポート</a></li>
+                <li><a href="https://www.flexera.com/" class="f1footer__button f1footer__button--darkblue">Flexera</a></li>
+                <li><a href="https://www.revenera.com" class="f1footer__button f1footer__button--darkblue">Revenera</a></li>
+              </ul>
+            </div>
+            <div class="f1footer__body__social">
+              <div>
+                <h4 class="f1footer__body__heading">Flexera をフォロー</h4>
+                <ul class="f1footer__social-icons">
+                  <li class="f1footer__social-item">
+                    <a class="f1footer__social-link" rel="noopener nofollow" href="https://www.linkedin.com/company/flexera" target="_blank" title="LinkedIn"
+                      ><img alt="LinkedIn" src="https://resources.flexera.com/web/eloqua/images/svg/icon-linkedin.svg"
+                    /></a>
+                  </li>
+                  <li class="f1footer__social-item">
+                    <a class="f1footer__social-link" rel="noopener nofollow" href="https://twitter.com/flexera" target="_blank" title="Twitter"
+                      ><img alt="Twitter" src="https://resources.flexera.com/web/eloqua/images/svg/icon-twitter.svg"
+                    /></a>
+                  </li>
+                  <li class="f1footer__social-item">
+                    <a class="f1footer__social-link" rel="noopener nofollow" href="https://www.youtube.com/user/FlexeraSoftware" target="_blank" title="YouTube"
+                      ><img alt="YouTube" src="https://resources.flexera.com/web/eloqua/images/svg/icon-youtube.svg"
+                    /></a>
+                  </li>
+                  <li class="f1footer__social-item">
+                    <a class="f1footer__social-link" rel="noopener nofollow" href="https://www.instagram.com/weareflexera" target="_blank" title="Instagram"
+                      ><img alt="Instagram" src="https://resources.flexera.com/web/eloqua/images/svg/icon-instagram.svg"
+                    /></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="f1footer__legal">
+            <div class="f1footer__legal__copyright">© <script>document.write(new Date().getFullYear());</script> Flexera. All rights reserved.</div>
+            <div class="f1footer__legal__links">
+              <ul>
+                <li><a href="https://www.flexera.com/legal/privacy-policy">プライバシー</a></li>
+                <li><a href="https://www.flexera.com/legal">使用条件</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://resources.flexera.com/web/includes/jquery-latest.js"></script>
+    <script src="/js/includes-loader-jp.js"></script>
+    <script src="/js/docs-flexera.js"></script>
+  </body>
+</html>

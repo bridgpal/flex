@@ -1,0 +1,82 @@
+# Netlify configuration for Flexera Documentation site
+
+[build]
+  # No build command needed for static site
+  publish = "."
+
+# Redirects for old PHP files to new HTML files
+[[redirects]]
+  from = "/index.php"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index2.php"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index_jp.php"
+  to = "/index_jp.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index_de.php"
+  to = "/index_de.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index_es.php"
+  to = "/index_es.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index_fr.php"
+  to = "/index_fr.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/404/index.php"
+  to = "/404/"
+  status = 301
+  force = true
+
+# Catch-all 404 redirect
+[[redirects]]
+  from = "/*"
+  to = "/404/index.html"
+  status = 404
+
+# Security headers for all pages
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "frame-ancestors https://*.flexera.com https://*.flexera.de https://*.revenera.com https://*.revenera.de https://ecommerce-flexeracommunity.cs201.force.com https://staging-flexeracommunity.cs203.force.com; default-src * 'unsafe-eval' 'unsafe-inline' data: filesystem: about: blob: ws: wss:; form-action 'self'; script-src * 'unsafe-eval' 'unsafe-inline' https:; style-src * 'self' 'unsafe-inline' https:"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Specific headers for HTML files
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Cache static assets
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/00_include/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"

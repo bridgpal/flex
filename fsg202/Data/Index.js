@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Index_Chunk',terms:[{t:'Flexera Service Gateway',c:0,$:0},{t:'legal information',c:0,$:1},{t:'Microsoft .NET Framework 4.6.1 on WCF',c:0,$:1},{t:'SQLite database',c:0,$:1},{t:'WCF self-hosting',c:0,$:1}]});

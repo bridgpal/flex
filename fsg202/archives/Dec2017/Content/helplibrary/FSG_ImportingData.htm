@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Configuring and Using Flexera&#160;Service&#160;Gateway 2">
+    <!-- saved from url=(0016)http://localhost -->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Importing Data From Existing Flexera Service Gateway Installation</title>
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" />
+        <link href="../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" />
+        <link href="../Resources/Stylesheets/techpub_styles.css" rel="stylesheet" />
+        <script src="../../Resources/Scripts/custom.modernizr.js">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js">
+        </script>
+    </head>
+    <body>
+        <h1><a name="fsg_using_1160815809_1056250"></a><a name="kanchor12"></a><a name="fsg_using_1160815809_84693"></a>Importing Data From Existing Flexera Service Gateway Installation</h1>
+        <p class="ps_Product_Subheading" data-mc-conditions="helplibrary.Online_Only__HelpNet___Local_Help_"><span class="helplibraryProduct Name">Flexera Service Gateway 2</span>
+        </p>
+        <p class="a_Body">To import registered services from an existing installation of Flexera Service Gateway to <span class="helplibraryProduct Name">Flexera Service Gateway 2</span>, you can use the <span class="Code">FSGImportTool.exe</span> tool that is installed with the product. </p>
+        <p class="p_Procedure_Leading">To import data from existing version of Flexera Service Gateway:</p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">1. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="1. ">Open the <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> installation directory and locate the <span class="Code">FSGImportTool.exe</span> file.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">2. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="2. ">Double-click the FSGImportTool.exe to launch it. The <span class="UI_Element">FSG Import Tool </span>opens.</td>
+            </tr>
+        </table>
+        <p class="a2_Body2">
+            <img src="FSGImportTool2.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.000061px;margin-bottom: 0.9993591px;" />
+        </p>
+        <p class="a2_Body2">In the <span class="UI_Element">Source FSG</span> section, you specify from where you want to import the registered service information. In the <span class="UI_Element">Target FSG</span> section, you specify the location of the <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> service. Both are the same server and communicate over different ports. </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">3. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="3. ">Copy the value from the <span class="UI_Element">TargetFSG URI</span> field to the <span class="UI_Element">Source FSG URI</span> field.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">4. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="4. ">Enter <span class="Code">admin</span> in the <span class="UI_Element">Source FSG Admin Name</span> field. </td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">5. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="5. ">Enter <span class="Code">admin</span> in <span class="UI_Element">Source FSG Admin Password</span> field.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">6. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="6. ">Click <span class="UI_Element">Transfer Settings</span>. A warning message is displayed stating that existing data will be overwritten and prompting you to confirm the transfer. </td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">7. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="7. ">Click <span class="UI_Element">OK</span>. A <span class="UI_Element">Transfer Operation completed</span> message is displayed.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">8. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="8. ">Click <span class="UI_Element">OK</span> to close the message and click <span class="UI_Element">Exit</span> to exit the <span class="UI_Element">FSG Import Tool</span>. </td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">9. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="9. ">To verify that the data has been successfully imported, launch the Flexera Service Gateway Host interface by opening the Windows Start menu, and selecting <span class="UI_Element">Flexera Service Gateway &gt; FlexeraServiceGatewayHost</span>. </td>
+            </tr>
+        </table>
+        <p class="a2_Body2">A message will appear stating that the Flexera Service Gateway Host is running.</p>
+        <p class="a2_Body2">
+            <img src="running_1.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9993439px;margin-bottom: 1.000076px;" />
+        </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">10. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="10. ">Locate the Flexera Service Gateway icon in the notification area of the Windows task bar, right-click on it, and select <span class="UI_Element">Show</span>. </td>
+            </tr>
+        </table>
+        <p class="a2_Body2">
+            <img src="show_1.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.000092px;margin-bottom: 0.9993591px;" />
+        </p>
+        <p class="a2_Body2">The Flexera Service Gateway Host interface opens. </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">11. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="11. ">Click the <span class="UI_Element">View Services</span> button. All services available with <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> will be listed (if any). </td>
+            </tr>
+        </table>
+        <p class="a2_Body2">
+            <img src="ViewServices2.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.000061px;margin-bottom: 1.000076px;" />
+        </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">12. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="12. ">If necessary, continue with the steps in <a class="GeneralCrossRef MCXref xref xrefGeneralCrossRef" href="FSG_ConnectingApps.htm#fsg_using_1160815809_1064120"><span style="color: #0077b3;" class="mcFormatColor">Connecting Applications to Flexera Service Gateway 2</span></a>.</td>
+            </tr>
+        </table>
+        <p class="sh1_Subheading1"><span class="helplibraryProduct Name">Flexera Service Gateway 2</span> Data File</p>
+        <p class="a_Body">The settings for <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> are stored in a local data file called <span class="Code">fsg.db3</span>, which can be found in the following directory:</p>
+        <p class="co_Code">[FlexeraServiceGateway2InstallDirectory]/App_Data</p>
+        <p class="a_Body">This file a standalone SQLite file which can be opened using a standard SQLite tool, such as <span class="UI_Element">DB Browser for SQLite</span> (<span class="Hyperlink"><a href="http://sqlitebrowser.org">http://sqlitebrowser.org</a></span>). However, most of the settings are encrypted and cannot be read using such a tool. </p>
+        <p class="a_Body">The database is portable from one machine to another.</p>
+        <MadCap:pageFooter class=" ">
+            <table class="footer">
+                <tr>
+                    <td>
+                        <h2>Flexera Service Gateway 2 Installation and Administration Guide</h2>
+                        <h3>December 2017</h3>
+                    </td>
+                    <td valign="top" align="right"><a href="legal_info.htm">Copyright Information</a> | <a href="http://www.flexera.com" target="_blank">Flexera</a></td>
+                </tr>
+            </table>
+        </MadCap:pageFooter>
+        <script type="text/javascript">/*<![CDATA[*/
+$("a[href^='http://']").attr("target","_blank");/*]]>*/</script>
+        <script type="text/javascript">/*<![CDATA[*/
+$("a[href^='https://']").attr("target","_blank");/*]]>*/</script>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../Default.htm#helplibrary/FSG_ImportingData.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>

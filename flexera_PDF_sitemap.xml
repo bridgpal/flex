@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Standalone Sitemap Generator www.xml-sitemaps.com (49241) -->
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager Suite System Requirements - On-Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2022 R2 On-Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2022 R2 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R2/EN/WebHelp/PDF Documents/On-Prem/FNM-SAP Sizing Guidelines 2022R2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager Suite System Requirements - On-Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2022 R2 On-Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2022 R2 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2024R1/EN/WebHelp/PDF Documents/On-Prem/FNM-SAP Sizing Guidelines 2022R2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager Suite System Requirements - On-Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2022 R2 On-Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2022 R2 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R2/EN/WebHelp/PDF Documents/On-Prem/FNM-SAP Sizing Guidelines 2022R2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager Suite System Requirements - On-Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2022 R2 On-Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2022 R2 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2023R1/EN/WebHelp/PDF Documents/On-Prem/FNM-SAP Sizing Guidelines 2022R2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager Suite System Requirements - On-Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2022 R2 On-Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2022 R2 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R2/EN/WebHelp/PDF Documents/On-Prem/FNM-SAP Sizing Guidelines 2022R2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+ <url>
+       <loc>https://docs.flexera.com/adminstudio2022/pdf/AS2022EvalGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/adminstudio2022/pdf/AS2022InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/adminstudio2022/pdf/AS2022ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/adminstudio2022/pdf/AS2022UserGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/adminstudio2022/pdf/ASProductLicensing.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/adminstudio2022/pdf/ASThirtyPartyLicensing.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/adminstudio2022/pdf/Repackager2022InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>	
+	<url>
+       <loc>https://docs.flexera.com/dataplatform/pdf/Content_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform/pdf/DataPlatform_FoldersMgmt.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform/pdf/DataPlatform_ReportScheduler.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform/pdf/TechnopediaAPI_Filters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csi/2020/ug/SVM2019_Cloud_Edition_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csionprem/2020/va_ig/SVM_OnPremises_Virtual_Appliance_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/workflowmanager2020/pdf/WFM2020U1ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csionprem/2020/rh_ig/SVM_OnPremises_Red_Hat_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csionprem/2020August/rn/SVMOnPrem_RN_August2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Reporting Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Concept Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNetAgent_5_7_ReleaseNote.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Release Note.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNetAgent_5_7_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>xxxxx</loc>
+       <changefreq>daily</changefreq>
+  </url>
+   <url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_RN_Sept2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csi/2020September/rn/SVMCloud_RN_September2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_UG_Sept2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csionprem/2020October/rn/SVMOnPrem_RN_October2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csionprem/2020/ug/SVM2020_On-Premises_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Database Schema.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_RN_Dec2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_UG_Dec2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/csi/2020/api/SVM_API.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csi/2020December/rn/SVMCloud_RN_December2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csi/2020/ug/SVM_Cloud_Edition_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/workflowmanager2020/pdf/WFM2020U2ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csionprem/2021January/rn/SVMOnPrem_RN_January2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_RN_Jan2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_API_Jan2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_API_Mar2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_UG_Mar2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>xxxxx</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_RN_Mar2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_UG_Jan2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/csi/2021February/rn/SVMCloud_RN_February2021.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/plc/pdf/AdminStudio2013ProductLicensing.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/plc/pdf/AdminStudio2014-15ProductLicensing.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+ 
+  <url>
+       <loc>https://docs.flexera.com/plc/pdf/AdminStudioProductLicensing.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform54/BDNA Content Curation Process v1.4.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/flexera/BeaconMonitor/EN/Beacon Monitor Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2016R7rn_july2017/CSI_2016_R7_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2016R7rn_aug2017/CSI_2016_R7_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2016rn_march2016may2017/CSI_Cloud_March2016-May2017_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2016rn_march2016may2017/CSI_On-Prem_March2016-May2017_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2016R8rn_aug2017/CSI2016_R8_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2016R8rn_sept2017/CSI2016_R8_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2016R8rn_sept2017/CSI2016_R8_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2016R9rn_oct2017/CSI2016_R9_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2016R9rn_nov2017/CSI2016_R9_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2016R10rn_dec2017/CSI2016_R10_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2016R10rn_dec2017/CSI2016_R10_On-Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2018R1rn_feb2018/CSI2018_R1_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2018R1rn_mar2018/CSI2018_R1_On-Prem_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/Data Platform 5.x Monthly Patches.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/Content_Guide_5.5.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 	
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/Data_Platform_5.4_API_Reference_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/Data_Platform_5.5_Installation_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/Data_Platform_Administrator_Guide_5.5_e.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/Dejacode CP GS.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/dp_fnms_extract.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/ReleaseNotes_Discover_7.2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/User_Console_Installation_Guide_5.5.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/ReleaseNotes_Discover_7.7.2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 		
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/User_Console_User_Guide_5.5.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 	
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/TechnopediaAPI_Filters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/BDNA Content Curation Process v1.4.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform55/BDNADP550.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/dataplatform55/pdf/DataPlatform_FoldersMgmt.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+	<url>
+       <loc>https://docs.flexera.com/dataplatform55/pdf/DataPlatform_ReportScheduler.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 	
+  <url>
+       <loc>https://docs.flexera.com/dataplatformdiscover/772/ReleaseNotes_Discover_7.2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/dataplatformdiscover/772/Discover_7.7.2_Administrator_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatformdiscover/772/Discover_7.7.2_Installation_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatformdiscover/772/Discover_7.7.2_Oracle_Licensing_Data_Extraction_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatformdiscover/772/Discover_7.7.2_Release_Notes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide_Edition02.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide_Edition03.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide01Aug2017.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide03Dec2014.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide05Nov2015.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide10Sept2015.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide12Nov2015.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide16Dec2013.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide16Feb2016.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide16March2017.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide17Aug2017.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide17Dec2013.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide19Oct2016.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide24June2015.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuide31Oct2016.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi_2/EPIInstallConfigGuideDecember2017.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuideMarch2019.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuideMay2018.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi_2/EPIInstallConfigGuideMay2018.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/EPIInstallConfigGuideV2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnmea2019r2/FlexNet AGENT 5.6 Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnmea2019r2/FlexNet AGENT 5.6 Release Notes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/FlexNet Manager for SAP Applications.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+    <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/FlexNet Manager Suite Known Issues - On Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/FlexNet Manager Suite System Requirements - Cloud Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/FlexNet Manager Suite System Requirements (Cloud Edition) - German.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/ES/FlexNet Manager Suite System Requirements (Cloud Edition).pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/FlexNet Manager Suite System Requirements (Cloud Edition).pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/JA/FlexNet Manager Suite System Requirements (Cloud Edition).pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/fsg20/FSG2v2.0InstallAdminGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fsg202/archives/Dec2017/FSG2v3.0InstallAdminGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fsg202/FSG2v3.0InstallAdminGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fsg202/FSG2v4.0InstallAdminGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fsg202/FSG2v6.0InstallAdminGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/epi/pdfs/FSG5InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2020 R1 On Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/dataplatformnaas/Normalize Service Standard Report Definitions.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatformSN/Normalize_for_ServiceNow_4.5.2_Deployment_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Recognition Center - Upload Troubleshooting EN.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Recognition Center Upload DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Recognition Center Upload EN.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform54/RN_5.4.0_DP.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform54/RN_5.4.0_UC.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/Spider64/Spider 6 Release Notes DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider 6 Release Notes EN.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider 6.4 Benutzerhandbuch DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider 6.4 Importer DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider 6.4 Importer EN.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider 6.4 Technical Reference EN.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider 6.4 Technische Referenz DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider Data Collector - Benutzerhandbuch DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider Data Collector - User Manual EN.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider DSGVO Anforderungen DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider Editionen DE.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/Spider64/Spider System Measurement Guide EN.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2018/SVM_2018_On-Premises_Red_Hat_6_and_7_Installation_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/SVM2018_Cloud_QSG/SVM_2018_QuickStartGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2018R4rn_aug2018/SVM_2018_R4_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2019R3/rh_ig/SVM_2019_On-Premises_Red_Hat_6_and_7_Installation_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/api/SVM_API.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/api/SVM_API.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_apr2018/SVM_April2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_aug2018/SVM_Aug2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2017rn_aug2017/SVM_August_2017_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/SVM_Cloud_Edition_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_dec2018/SVM_Dec2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2019rn_dec2019/SVM_Dec2019rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2017rn_dec2017/SVM_December_2017_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_feb2018/SVM_Feb2018_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2019rn_feb2019/SVM_Feb2019rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2017rn_july2017/SVM_July2017_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_july2018/SVM_July2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_june2018pt2/SVM_June2018PT2rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_june2018/SVM_June2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_mar2018/SVM_March2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2017rn_oct2017/SVM_Oct_2017_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_oct2018/SVM_Oct2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2020March/ig_rh/SVM_OnPremises_Red_Hat_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionpremredhat/SVM_OnPremises_Red_Hat_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2020March/ug/SVM_OnPremises_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/SVM_OnPremises_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2020March/ig_va/SVM_OnPremises_Virtual_Appliance_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/SVM_On-Prem_VA_InstallGuide/SVM_OnPremises_Virtual_Appliance_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2017rn_sept2017/SVM_Sept_2017_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2018rn_sept2018/SVM_Sept2018rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/SVM_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2019R3/va_ig/SVM_Virtual_Appliance_Installation_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2017rn_june2017/SVM2017ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019ug/SVM2018_Cloud_Edition_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/SVM2018_Cloud_Edition_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2018R2rn_may2018/SVM2018_R2_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2018R2rn_may2018/SVM2018_R2_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2018R3rn_july2018/SVM2018_R3_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2018R4rn_aug2018/SVM2018_R4_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2018R5rn_oct2018/SVM2018_R5_Oct2018_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2018R5rn_oct2018/SVM2018_R5_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019api/SVM2019_API.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019rn_dec2019/SVM2019_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019rn_nov2019/SVM2019_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019rn_oct2019/SVM2019_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019ug/SVM2019_Cloud_Edition_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/SVM2019_Cloud_Edition_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2019R3/ug/SVM2019_On-Premises_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019R1rn_feb2019/SVM2019_R1_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2019R1rn_feb2019/SVM2019_R1_On_Premises_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019R2rn_mar2019/SVM2019_R2_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2019R2rn_apr2019/SVM2019_R2_On-Prem_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019R3rn_july2019/SVM2019_R3_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2019R3rn_july2019/SVM2019_R3_On-Prem_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2019R4rn_aug2019/SVM2019_R4_Cloud_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2019R5rn_dec2019/SVM2019_R5_On-Prem_Edition_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2020April/rn/SVMCloud_RN_April2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2020August/rn/SVMCloud_RN_August2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2020June/rn/SVMCloud_RN_June2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2020March/rn/SVMCloud_RN_March2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csi/2020May/rn/SVMCloud_RN_May2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2020March/rn/SVMOnPrem_RN_March2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/csionprem/2020May/rn/SVMOnPrem_RN_May2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_API_April2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_API_June2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2019rn_may2019/SVR_May2019rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2019rn_nov2019/SVR_May2019rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2019rn_nov2019/SVR_Nov2019rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_RN_April2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_RN_June2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/svm2019rn_sept2019/SVR_Sep2019rn.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_UG_April2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svr/pdf/SVR_UG_June2020.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/svm/SVR_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatformtechnopedia_sn/Technopedia_Catalog_3.5.0_Deployment_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform54/TechnopediaAPI_Filters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/ui551/pdf/UI_CPPLinux_SDK.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui551/pdf/UI_CPPmacOS_SDK.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui551/pdf/UI_CPPWin_SDK.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui551/pdf/UI_Java_SDK.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui551/pdf/UI_NET_SDK.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui551/pdf/UI_OBJC_SDK.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui551/pdf/UI_ReportAPI.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui/UIBestPracticesGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2020 R1 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/dataplatform54/User_Console_5.4_User_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R1/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/DE/WebHelp/PDF Documents/Cloud/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/fnms/FR/WebHelp/PDF Documents/Cloud/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/workflowmanager2016/pdf/WFM2016InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2017/pdf/WFM2017InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2017/pdf/WFM2017UserGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2018/pdf/WFM2018InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2018/pdf/WFM2018UserGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2019/pdf/WFM2019InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2019/pdf/WFM2019UserGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2020/pdf/WFM2020InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2020/pdf/WFM2020ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2020/pdf/WFM2020UserGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2014/WM2014InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2015/pdf/WM2015InstallGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2015/pdf/WM2015ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2015/pdf/WM2015UserGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2016/pdf/WM2016ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2016/pdf/WM2016UserGuide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2017/pdf/WM2017ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2018/pdf/WM2018ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2018/pdf/WM2018U1ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/workflowmanager2019/pdf/WM2019ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/ui551/bp/441_BestPracticesGuide_v4.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/plc/pdf/AdminStudio10AndEarlierLicensing.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/plc/pdf/AdminStudio11xProductLicensing.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/FNMSSystemRequirements.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2020 R2 On Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2020 R2 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager Suite System Requirements - On-Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2020R2/EN/WebHelp/PDF Documents/On-Prem/FNM-SAP Sizing Guidelines 2021R1.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+   <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/FNMSSystemRequirements.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/Installing FNMS 2021 R1 On Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/Upgrading FNMS to 2021 R1 on Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager for SAP Applications User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/FlexNet Manager Suite System Requirements - On-Premises Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2021R1/EN/WebHelp/PDF Documents/On-Prem/FNM-SAP Sizing Guidelines 2020R2.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2019 R1 API Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Concept Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Database Schema.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Flexera Analytics Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Release Note.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Reporting Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNetAgent_5_7_Install_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2020r1/pdf/FlexNetAgent_5_7_ReleaseNote.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2019 R1 API Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Database schema.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2020 R1 Flexera Analytics Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2021 R1 Concept Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2021 R1 Installation Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2021 R1 Release Notes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2021 R1 Reporting Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2021 R1 SP 1 Release Notes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNet Manager for Engineering Applications 2021 R1 User Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNetAgent_5_8_Installation_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+   <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1/pdf/FlexNetAgent_5_8_Release_Notes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  
+ 
+
+  <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1sp2/pdf/FlexNet%20Manager%20for%20Engineering%20Applications%202021%20R1%20SP%202%20Flexera%20Analytics%20Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1sp2/pdf/FlexNet%20Manager%20for%20Engineering%20Applications%202021%20R1%20SP%202%20Installation%20Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1sp2/pdf/FlexNet%20Manager%20for%20Engineering%20Applications%202021%20R1%20SP%202%20Release%20Notes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1sp2/pdf/FlexNetAgent_5.9_Installation_Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>   
+  
+    <url>
+       <loc>https://docs.flexera.com/fnmea/2021r1sp2/pdf/FlexNetAgent_5.9_Release_Notes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+
+  
+  
+    <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/Installing%20FNMS%202022%20R1%20On-Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF Documents/On-Prem/Non-Commercial Software Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/Upgrading%20FNMS%20to%202022%20R1%20on%20Premises.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/FlexNet%20Manager%20for%20SAP%20Applications%20Installation%20Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/FlexNet%20Manager%20for%20SAP%20Applications%20User%20Guide.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/FlexNet%20Manager%20Suite%20System%20Requirements%20-%20On-Premises%20Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+  <url>
+       <loc>https://docs.flexera.com/FlexNetManagerSuite2022R1/EN/WebHelp/PDF%20Documents/On-Prem/FNM-SAP%20Sizing%20Guidelines%202022R1.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://FlexNetManagerSuite2019R2%20Documents/Cloud/FlexNet%20Manager%20for%20SAP%20Applications.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/WebHelp/PDF%20Documents/Cloud/FlexNet%20Manager%20Suite%20System%20Requirements%20-%20Cloud Edition.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>		
+    <url>
+       <loc>https://docs.flexera.com/fnms/EN/WebHelp/PDF%20Documents/Cloud/FNMSInvAdaptersAndConnectorsReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/WebHelp/PDF%20Documents/Cloud/FNMSSchemaReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/WebHelp/PDF%20Documents/Cloud/FNMSSystemReference.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/WebHelp/PDF%20Documents/Cloud/GatheringFlexNetInventory.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>	
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/WebHelp/PDF%20Documents/Cloud/Non-Commercial%20Software%20Disclosures.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+  <url>
+       <loc>https://docs.flexera.com/fnms/EN/WebHelp/PDF%20Documents/Cloud/UsingFlexNetBusinessAdapters.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>	
+     <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus_7.6.5_ReleaseNotes.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>  
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-7-GDPR_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-DataBackup-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-Imaging-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-Installation-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-Inventory-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-Migration-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-OSDeploy-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-Packaging-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-Replication-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-REST_7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-SWDeploy-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-TechnicalReference-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url> 
+   <url>
+       <loc>https://docs.flexera.com/columbus76/pdf/en/Columbus-UpdateManagement-7.6_UserManual_en.pdf</loc>
+       <changefreq>daily</changefreq>
+  </url>
+ </urlset>
+ 
+ 

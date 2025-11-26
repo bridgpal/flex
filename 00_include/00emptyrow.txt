@@ -1,0 +1,18 @@
+<!-- COPY THIS CODE TO ADD A NEW ROW -->
+							
+					
+    <div class="row" data-product="PRODUCT" data-version="VERSION">
+        <div class="cell">
+        	<a href="XXXXX" target="_blank">BOOK TITLE</a>
+        </div>
+        <div class="cell">
+            <a href="" target="_blank">
+			<img alt="web" src="https://resources.flexera.com/web/media/images/ext-docs-icon-web-flexera.svg"></a>
+        </div>
+        <div class="cell">
+            <a href="" target="_blank">
+            <img alt="pdf" src="https://resources.flexera.com/web/media/images/ext-docs-icon-pdf-flexera.svg"></a>
+        </div>
+    </div>
+							
+					

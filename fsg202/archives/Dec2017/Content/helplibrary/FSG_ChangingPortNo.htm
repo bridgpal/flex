@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Installing [%=helplibrary.Product Name%]">
+    <!-- saved from url=(0016)http://localhost -->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Changing the Port Number of an Existing Installation of Flexera Service Gateway</title>
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" />
+        <link href="../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" />
+        <link href="../Resources/Stylesheets/techpub_styles.css" rel="stylesheet" />
+        <script src="../../Resources/Scripts/custom.modernizr.js">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js">
+        </script>
+    </head>
+    <body>
+        <h1><a name="fsg_installing_3668699472_1058212"></a><a name="fsg_installing_3668699472_35081"></a>Changing the Port Number of an Existing Installation of Flexera Service Gateway</h1>
+        <p class="ps_Product_Subheading" data-mc-conditions="helplibrary.Online_Only__HelpNet___Local_Help_"><span class="helplibraryProduct Name">Flexera Service Gateway 2</span>
+        </p>
+        <p class="a_Body">If you want to install <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> on the same server where a previous version of Flexera Service Gateway is already installed, you need to change the communications port of the existing Flexera Service Gateway installation from 9443 to the next available port, such as 9445 or 9446. <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> will use port 9443. </p>
+        <p class="ino_Important_Note" data-mc-autonum="Important • "><span class="autonumber"><span class="notename">Important • </span></span>If you are installing <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> on the same server where a previous version of Flexera Service Gateway is already installed, perform the steps in this section before installing <span class="helplibraryProduct Name">Flexera Service Gateway 2</span>. If you are not installing <span class="helplibraryProduct Name">Flexera Service Gateway 2</span> on the same server as a previous version of Flexera Service Gateway, you can ignore this section and just perform the steps in <a class="GeneralCrossRef MCXref xref xrefGeneralCrossRef" href="FSG_InstallingTask.htm#fsg_installing_3668699472_1031630"><span style="color: #0077b3;" class="mcFormatColor">Running the Flexera Service Gateway 2 Installer</span></a>.</p>
+        <p class="p_Procedure_Leading">To change the port number of an existing installation of Flexera Service Gateway:</p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">1. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="1. ">Open the installation directory of the previous version of Flexera Service Gateway.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">2. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="2. ">Open the following file in a text editor:</td>
+            </tr>
+        </table>
+        <p class="co2_Code2">[PreviousVersionFlexeraServiceGatewayInstallDirectory]\repository\conf\carbon.xml</p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">3. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="3. ">Locate <span class="Code">&lt;offset&gt;0&lt;/offset&gt;</span> in the <span class="Code">carbon.xml</span> file:</td>
+            </tr>
+        </table>
+        <p class="co2_Code2">
+            <img src="CarbonCode.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.000061px;margin-bottom: 1.000061px;" />
+        </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">4. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="4. ">Change the <span class="Code">&lt;offset&gt;</span> value from <span class="Code">0</span> to one of the following:</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 24px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_BulletsTable">• </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="• ">If you are changing the port to 9445, change the <span class="Code">&lt;offset&gt;</span> value to <span class="Code">2</span>.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b2_Bulleted2" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 24px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_BulletsTable">• </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="• ">If you are changing the port to 9446, change the <span class="Code">&lt;offset&gt;</span> value to <span class="Code">3</span>.</td>
+            </tr>
+        </table>
+        <p class="no2_Note2" data-mc-autonum="Note • "><span class="autonumber"><span class="notename">Note • </span></span>Changing the <span class="Code">&lt;offset</span>&gt; value to 2 will move the port to 9445 (9443 + 2 = 9445), changing the <span class="Code">&lt;offset</span>&gt; value to 3 will move the port to 9446 (9443 + 3 = 9446), and so on.</p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">5. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="5. ">Save the <span class="Code">carbon.xml</span> file.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">6. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="6. ">On the target system, open the following URL in a browser window:</td>
+            </tr>
+        </table>
+        <p class="co2_Code2">https://CURRENT_FSG_SERVER:9443/carbon/admin/index.jsp</p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">7. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="7. ">You will be prompted to login.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">8. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="8. ">Login using the following credentials:</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b2_Bulleted2" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 24px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_BulletsTable">• </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="• "><span class="UI_Element">User Name</span>: admin</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b2_Bulleted2" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 24px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_BulletsTable">• </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="• "><span class="UI_Element">Password</span>: admin</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">9. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="9. ">In the left navigation bar, click <span class="UI_Element">Shutdown/Restart</span>.</td>
+            </tr>
+        </table>
+        <p class="a2_Body2">
+            <img src="ShutdownRestart.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9993591px;margin-bottom: 1.000061px;" />
+        </p>
+        <p class="a2_Body2">The <span class="UI_Element">Shutdown/Restart Server</span> screen opens.</p>
+        <p class="a2_Body2">
+            <img src="ShutdownRestartView.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.000031px;margin-bottom: 0.9993439px;" />
+        </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">10. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="10. ">Click <span class="UI_Element">Forced Restart</span>. You will be prompted to confirm the restart.</td>
+            </tr>
+        </table>
+        <p class="a2_Body2">
+            <img src="RestartConfirm.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9993439px;margin-bottom: 1.000092px;" />
+        </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">11. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="11. ">Click <span class="UI_Element">Yes</span>. A notification message will open.</td>
+            </tr>
+        </table>
+        <p class="a2_Body2">
+            <img src="RestartMessage.png" style="margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.000076px;margin-bottom: 0.9993668px;" />
+        </p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">12. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="12. ">Click <span class="UI_Element">OK</span>.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">13. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="13. ">Wait for five minutes while the changes are applied and the server is rebooted.</td>
+            </tr>
+        </table>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">14. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="14. ">Verify that the changes have been made by opening the new URL (using the new port number) in a browser window: </td>
+            </tr>
+        </table>
+        <p class="co2_Code2">https://CURRENT_FSG_SERVER:NEW_PORT_NUMBER/carbon/admin/index.jsp</p>
+        <table class="AutoNumber_p_b_Bulleted" style="width: 100%; margin-left: 0;" cellspacing="0" cellpadding="0">
+            <col style="width: 0px;" />
+            <col style="width: 24px;" />
+            <col style="width: auto;" />
+            <tr>
+                <td valign="top" />
+                <td class="AutoNumber_p_b_Bulleted" valign="top"><span class="z_Numbered_List_Number">15. </span>
+                </td>
+                <td class="AutoNumber_p_b_Bulleted" valign="top" data-mc-autonum="15. ">If you want to import existing data from the previous version of Flexera Service Gateway to <span class="helplibraryProduct Name">Flexera Service Gateway 2</span>, first perform the steps in <a class="GeneralCrossRef MCXref xref xrefGeneralCrossRef" href="FSG_Installing.htm#fsg_installing_3668699472_1013108"><span style="color: #0077b3;" class="mcFormatColor">Installing Flexera Service Gateway 2</span></a>, and then perform the steps in <a class="GeneralCrossRef MCXref xref xrefGeneralCrossRef" href="FSG_ImportingData.htm#fsg_using_1160815809_1056250"><span style="color: #0077b3;" class="mcFormatColor">Importing Data From Existing Flexera Service Gateway Installation</span></a>.</td>
+            </tr>
+        </table>
+        <MadCap:pageFooter class=" ">
+            <table class="footer">
+                <tr>
+                    <td>
+                        <h2>Flexera Service Gateway 2 Installation and Administration Guide</h2>
+                        <h3>December 2017</h3>
+                    </td>
+                    <td valign="top" align="right"><a href="legal_info.htm">Copyright Information</a> | <a href="http://www.flexera.com" target="_blank">Flexera</a></td>
+                </tr>
+            </table>
+        </MadCap:pageFooter>
+        <script type="text/javascript">/*<![CDATA[*/
+$("a[href^='http://']").attr("target","_blank");/*]]>*/</script>
+        <script type="text/javascript">/*<![CDATA[*/
+$("a[href^='https://']").attr("target","_blank");/*]]>*/</script>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="../../Default.htm#helplibrary/FSG_ChangingPortNo.htm">Open topic with navigation</a>
+        </p>
+    </body>
+</html>
