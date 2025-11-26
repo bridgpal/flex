@@ -47,11 +47,7 @@
   status = 301
   force = true
 
-# Catch-all 404 redirect
-[[redirects]]
-  from = "/*"
-  to = "/404/index.html"
-  status = 404
+
 
 # Security headers for all pages
 [[headers]]
@@ -64,19 +60,3 @@
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
-# Specific headers for HTML files
-[[headers]]
-  for = "/*.html"
-  [headers.values]
-    Cache-Control = "public, max-age=0, must-revalidate"
-
-# Cache static assets
-[[headers]]
-  for = "/js/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-[[headers]]
-  for = "/00_include/*"
-  [headers.values]
-    Cache-Control = "public, max-age=3600"
