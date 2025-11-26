@@ -58,3 +58,14 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Prevent caching on JS files to avoid RequireJS race conditions
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
+
+[[headers]]
+  for = "/*/Resources/Scripts/*.js"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
