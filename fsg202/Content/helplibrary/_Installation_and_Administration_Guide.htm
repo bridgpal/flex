@@ -2,6 +2,18 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" class="_Skins_TechPubsOneFlexera" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-has-content-body="True" data-mc-toc-path="" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
     <!-- saved from url=(0016)http://localhost -->
     <head>
+        <!-- GTM deferred until after RequireJS loads to prevent define() conflicts -->
+        <script>
+        window.addEventListener('load', function() {
+            setTimeout(function() {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-PDSJXT');
+            }, 100);
+        });
+        </script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -34,28 +46,6 @@
         <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
         </script>
         <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
-        </script>
-        <!-- GTM loaded after RequireJS to prevent define() conflicts -->
-        <script type="text/javascript" defer="defer">
-        /* <![CDATA[ */
-        (function() {
-            function loadGTM() {
-                if (window.gtmLoaded) return;
-                window.gtmLoaded = true;
-                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                })(window,document,'script','dataLayer','GTM-PDSJXT');
-            }
-            // Wait for RequireJS to be fully loaded before loading GTM
-            if (document.readyState === 'complete') {
-                setTimeout(loadGTM, 100);
-            } else {
-                window.addEventListener('load', function() { setTimeout(loadGTM, 100); });
-            }
-        })();
-        /* ]]> */
         </script>
 
     </head>
